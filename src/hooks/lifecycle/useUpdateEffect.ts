@@ -9,5 +9,5 @@ const useUpdateEffect: typeof useEffect = (effect, deps) => {
     }
   }, deps);
 };
-
+ 
 export default useUpdateEffect;
